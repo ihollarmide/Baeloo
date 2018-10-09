@@ -1,3 +1,3 @@
 # Baeloo
-Baeloo Landing Page
-To view page; Go to ihollarmide.github.io/Baeloo
+Baeloo Landing Page.
+https://ihollarmide.github.io/Baeloo/
